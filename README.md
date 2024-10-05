@@ -1,4 +1,3 @@
-```md
 # Core_process Documentation
 
 The `Core_process` class is used in this project for real-time object detection and tracking from **IP camera streams** using the **RTSP protocol**, based on the **YOLOv8** model and **DeepSort** tracker. It enables the detection of objects, tracking of individuals, and monitoring of intrusions within a defined time window.
